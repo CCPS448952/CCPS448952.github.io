@@ -1,1 +1,28 @@
-
+p {
+  color: blue;
+  color: #333;
+  font-family: 'Valera Round', sans-serif;
+} 
+ul {
+  margin: 30px auto;
+  padding: 0 20px;
+  text-align: center;
+}
+ol { 
+}
+h1 { 
+  color: #466995;
+  font-family: 'Oswald', sans-serif;
+}
+header { 
+   background-color: #466995;
+  border-bottom: 1px solid #466995;
+    
+  body {
+    background-color: #FFF;
+  margin: 0 auto;
+  }
+  footer {
+    background-color: #DBE9EE;
+  text-align: center;
+  }
